@@ -1,0 +1,2 @@
+ALTER TABLE tarefas
+    ADD COLUMN url VARCHAR(1000) NULL;

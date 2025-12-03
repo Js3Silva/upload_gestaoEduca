@@ -1,0 +1,36 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Gestão Educa
+authors:
+  - family-names: da Silva
+    given-names: Jonathan Sena
+  - family-names: Silva
+    given-names: Italo Vitorino Batista 
+  - family-names: Titton
+    given-names: Matheus Ferreira 
+  - family-names: Machado
+    given-names: Murilo Andrade 
+  - family-names: de Araújo
+    given-names: Pedro Henrique Barbosa Montandon 
+  - family-names: Silva
+    given-names: Pedro Luiz Nato 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Carvalho
+    given-names: Joyce Christina de Paiva 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Nascimento
+    given-names: Michelle Nery 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Silva
+    given-names: Soraia Lúcia da 
+keywords:
+  - Gerência
+  - Dados Estruturados
+  - Gestão de projetos
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-2-ti4-1254100-gestaoeduca.git
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14

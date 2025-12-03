@@ -1,0 +1,2 @@
+ALTER TABLE tarefas
+    ADD COLUMN duracao BIGINT NULL;
